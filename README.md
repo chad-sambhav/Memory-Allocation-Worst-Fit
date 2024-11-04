@@ -16,3 +16,7 @@ The program simulates a memory allocation system where memory is allocated to di
 - **Memory Compaction**: Reorganize memory to eliminate fragmentation and consolidate free space.
 - **Dynamic Memory Management**: Uses a linked list to manage memory blocks dynamically.
 
+- ## Files Included
+
+- `worst_fit.c`: Implementation of the Worst Fit memory allocation algorithm.
+
